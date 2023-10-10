@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 554e5c4d767d4ae488e55336a7bc7b07
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Exton Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d180946ded6b4dd4bae9947f91ba716a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
